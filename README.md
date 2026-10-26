@@ -1,3 +1,6 @@
+<!-- OceanBase 2026 competition team verification -->
+OB-P:hfrFqRwg7CSK25i05VKLew
+
 <div align="center">
 
 <picture>
